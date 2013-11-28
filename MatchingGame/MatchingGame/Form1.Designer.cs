@@ -30,21 +30,21 @@
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.iconLabel = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
+            this.iconLabel2 = new System.Windows.Forms.Label();
+            this.iconLabel3 = new System.Windows.Forms.Label();
+            this.iconLabel4 = new System.Windows.Forms.Label();
+            this.iconLabel5 = new System.Windows.Forms.Label();
+            this.iconLabel6 = new System.Windows.Forms.Label();
+            this.iconLabel7 = new System.Windows.Forms.Label();
+            this.iconLabel8 = new System.Windows.Forms.Label();
+            this.iconLabel9 = new System.Windows.Forms.Label();
+            this.iconLabel0 = new System.Windows.Forms.Label();
+            this.iconLabel01 = new System.Windows.Forms.Label();
+            this.iconLabel02 = new System.Windows.Forms.Label();
+            this.iconLabel03 = new System.Windows.Forms.Label();
+            this.iconLabel04 = new System.Windows.Forms.Label();
+            this.iconLabel05 = new System.Windows.Forms.Label();
+            this.iconLabel06 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -56,21 +56,21 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel1.Controls.Add(this.label15, 3, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label14, 2, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label13, 1, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label12, 0, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label11, 3, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label10, 2, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label9, 1, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label8, 0, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label7, 3, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label6, 2, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label5, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label4, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label3, 3, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label2, 2, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label1, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel06, 3, 3);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel05, 2, 3);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel04, 1, 3);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel03, 0, 3);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel02, 3, 2);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel01, 2, 2);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel0, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel9, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel8, 3, 1);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel7, 2, 1);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel6, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel5, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel4, 3, 0);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel3, 2, 0);
+            this.tableLayoutPanel1.Controls.Add(this.iconLabel2, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.iconLabel, 0, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
@@ -95,185 +95,185 @@
             this.iconLabel.Text = "c";
             this.iconLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label1
+            // iconLabel2
             // 
-            this.label1.AutoSize = true;
-            this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label1.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label1.Location = new System.Drawing.Point(136, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(127, 127);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "c";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel2.AutoSize = true;
+            this.iconLabel2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel2.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel2.Location = new System.Drawing.Point(136, 0);
+            this.iconLabel2.Name = "iconLabel2";
+            this.iconLabel2.Size = new System.Drawing.Size(127, 127);
+            this.iconLabel2.TabIndex = 1;
+            this.iconLabel2.Text = "c";
+            this.iconLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label2
+            // iconLabel3
             // 
-            this.label2.AutoSize = true;
-            this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label2.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label2.Location = new System.Drawing.Point(269, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(127, 127);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "c";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel3.AutoSize = true;
+            this.iconLabel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel3.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel3.Location = new System.Drawing.Point(269, 0);
+            this.iconLabel3.Name = "iconLabel3";
+            this.iconLabel3.Size = new System.Drawing.Size(127, 127);
+            this.iconLabel3.TabIndex = 2;
+            this.iconLabel3.Text = "c";
+            this.iconLabel3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label3
+            // iconLabel4
             // 
-            this.label3.AutoSize = true;
-            this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label3.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label3.Location = new System.Drawing.Point(402, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(129, 127);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "c";
-            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel4.AutoSize = true;
+            this.iconLabel4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel4.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel4.Location = new System.Drawing.Point(402, 0);
+            this.iconLabel4.Name = "iconLabel4";
+            this.iconLabel4.Size = new System.Drawing.Size(129, 127);
+            this.iconLabel4.TabIndex = 3;
+            this.iconLabel4.Text = "c";
+            this.iconLabel4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label4
+            // iconLabel5
             // 
-            this.label4.AutoSize = true;
-            this.label4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label4.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label4.Location = new System.Drawing.Point(3, 127);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(127, 127);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "c";
-            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel5.AutoSize = true;
+            this.iconLabel5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel5.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel5.Location = new System.Drawing.Point(3, 127);
+            this.iconLabel5.Name = "iconLabel5";
+            this.iconLabel5.Size = new System.Drawing.Size(127, 127);
+            this.iconLabel5.TabIndex = 4;
+            this.iconLabel5.Text = "c";
+            this.iconLabel5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label5
+            // iconLabel6
             // 
-            this.label5.AutoSize = true;
-            this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label5.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label5.Location = new System.Drawing.Point(136, 127);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(127, 127);
-            this.label5.TabIndex = 5;
-            this.label5.Text = "c";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel6.AutoSize = true;
+            this.iconLabel6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel6.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel6.Location = new System.Drawing.Point(136, 127);
+            this.iconLabel6.Name = "iconLabel6";
+            this.iconLabel6.Size = new System.Drawing.Size(127, 127);
+            this.iconLabel6.TabIndex = 5;
+            this.iconLabel6.Text = "c";
+            this.iconLabel6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label6
+            // iconLabel7
             // 
-            this.label6.AutoSize = true;
-            this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label6.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label6.Location = new System.Drawing.Point(269, 127);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(127, 127);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "c";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel7.AutoSize = true;
+            this.iconLabel7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel7.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel7.Location = new System.Drawing.Point(269, 127);
+            this.iconLabel7.Name = "iconLabel7";
+            this.iconLabel7.Size = new System.Drawing.Size(127, 127);
+            this.iconLabel7.TabIndex = 6;
+            this.iconLabel7.Text = "c";
+            this.iconLabel7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label7
+            // iconLabel8
             // 
-            this.label7.AutoSize = true;
-            this.label7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label7.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label7.Location = new System.Drawing.Point(402, 127);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(129, 127);
-            this.label7.TabIndex = 7;
-            this.label7.Text = "c";
-            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel8.AutoSize = true;
+            this.iconLabel8.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel8.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel8.Location = new System.Drawing.Point(402, 127);
+            this.iconLabel8.Name = "iconLabel8";
+            this.iconLabel8.Size = new System.Drawing.Size(129, 127);
+            this.iconLabel8.TabIndex = 7;
+            this.iconLabel8.Text = "c";
+            this.iconLabel8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label8
+            // iconLabel9
             // 
-            this.label8.AutoSize = true;
-            this.label8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label8.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label8.Location = new System.Drawing.Point(3, 254);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(127, 127);
-            this.label8.TabIndex = 8;
-            this.label8.Text = "c";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel9.AutoSize = true;
+            this.iconLabel9.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel9.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel9.Location = new System.Drawing.Point(3, 254);
+            this.iconLabel9.Name = "iconLabel9";
+            this.iconLabel9.Size = new System.Drawing.Size(127, 127);
+            this.iconLabel9.TabIndex = 8;
+            this.iconLabel9.Text = "c";
+            this.iconLabel9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label9
+            // iconLabel0
             // 
-            this.label9.AutoSize = true;
-            this.label9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label9.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label9.Location = new System.Drawing.Point(136, 254);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(127, 127);
-            this.label9.TabIndex = 9;
-            this.label9.Text = "c";
-            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel0.AutoSize = true;
+            this.iconLabel0.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel0.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel0.Location = new System.Drawing.Point(136, 254);
+            this.iconLabel0.Name = "iconLabel0";
+            this.iconLabel0.Size = new System.Drawing.Size(127, 127);
+            this.iconLabel0.TabIndex = 9;
+            this.iconLabel0.Text = "c";
+            this.iconLabel0.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label10
+            // iconLabel01
             // 
-            this.label10.AutoSize = true;
-            this.label10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label10.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label10.Location = new System.Drawing.Point(269, 254);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(127, 127);
-            this.label10.TabIndex = 10;
-            this.label10.Text = "c";
-            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel01.AutoSize = true;
+            this.iconLabel01.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel01.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel01.Location = new System.Drawing.Point(269, 254);
+            this.iconLabel01.Name = "iconLabel01";
+            this.iconLabel01.Size = new System.Drawing.Size(127, 127);
+            this.iconLabel01.TabIndex = 10;
+            this.iconLabel01.Text = "c";
+            this.iconLabel01.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label11
+            // iconLabel02
             // 
-            this.label11.AutoSize = true;
-            this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label11.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label11.Location = new System.Drawing.Point(402, 254);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(129, 127);
-            this.label11.TabIndex = 11;
-            this.label11.Text = "c";
-            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel02.AutoSize = true;
+            this.iconLabel02.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel02.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel02.Location = new System.Drawing.Point(402, 254);
+            this.iconLabel02.Name = "iconLabel02";
+            this.iconLabel02.Size = new System.Drawing.Size(129, 127);
+            this.iconLabel02.TabIndex = 11;
+            this.iconLabel02.Text = "c";
+            this.iconLabel02.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label12
+            // iconLabel03
             // 
-            this.label12.AutoSize = true;
-            this.label12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label12.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label12.Location = new System.Drawing.Point(3, 381);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(127, 130);
-            this.label12.TabIndex = 12;
-            this.label12.Text = "c";
-            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel03.AutoSize = true;
+            this.iconLabel03.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel03.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel03.Location = new System.Drawing.Point(3, 381);
+            this.iconLabel03.Name = "iconLabel03";
+            this.iconLabel03.Size = new System.Drawing.Size(127, 130);
+            this.iconLabel03.TabIndex = 12;
+            this.iconLabel03.Text = "c";
+            this.iconLabel03.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label13
+            // iconLabel04
             // 
-            this.label13.AutoSize = true;
-            this.label13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label13.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label13.Location = new System.Drawing.Point(136, 381);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(127, 130);
-            this.label13.TabIndex = 13;
-            this.label13.Text = "c";
-            this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel04.AutoSize = true;
+            this.iconLabel04.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel04.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel04.Location = new System.Drawing.Point(136, 381);
+            this.iconLabel04.Name = "iconLabel04";
+            this.iconLabel04.Size = new System.Drawing.Size(127, 130);
+            this.iconLabel04.TabIndex = 13;
+            this.iconLabel04.Text = "c";
+            this.iconLabel04.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label14
+            // iconLabel05
             // 
-            this.label14.AutoSize = true;
-            this.label14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label14.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label14.Location = new System.Drawing.Point(269, 381);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(127, 130);
-            this.label14.TabIndex = 14;
-            this.label14.Text = "c";
-            this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel05.AutoSize = true;
+            this.iconLabel05.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel05.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel05.Location = new System.Drawing.Point(269, 381);
+            this.iconLabel05.Name = "iconLabel05";
+            this.iconLabel05.Size = new System.Drawing.Size(127, 130);
+            this.iconLabel05.TabIndex = 14;
+            this.iconLabel05.Text = "c";
+            this.iconLabel05.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label15
+            // iconLabel06
             // 
-            this.label15.AutoSize = true;
-            this.label15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label15.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
-            this.label15.Location = new System.Drawing.Point(402, 381);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(129, 130);
-            this.label15.TabIndex = 15;
-            this.label15.Text = "c";
-            this.label15.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel06.AutoSize = true;
+            this.iconLabel06.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.iconLabel06.Font = new System.Drawing.Font("Webdings", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.iconLabel06.Location = new System.Drawing.Point(402, 381);
+            this.iconLabel06.Name = "iconLabel06";
+            this.iconLabel06.Size = new System.Drawing.Size(129, 130);
+            this.iconLabel06.TabIndex = 15;
+            this.iconLabel06.Text = "c";
+            this.iconLabel06.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -293,21 +293,21 @@
 
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Label iconLabel;
-        private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label iconLabel06;
+        private System.Windows.Forms.Label iconLabel05;
+        private System.Windows.Forms.Label iconLabel04;
+        private System.Windows.Forms.Label iconLabel03;
+        private System.Windows.Forms.Label iconLabel02;
+        private System.Windows.Forms.Label iconLabel01;
+        private System.Windows.Forms.Label iconLabel0;
+        private System.Windows.Forms.Label iconLabel9;
+        private System.Windows.Forms.Label iconLabel8;
+        private System.Windows.Forms.Label iconLabel7;
+        private System.Windows.Forms.Label iconLabel6;
+        private System.Windows.Forms.Label iconLabel5;
+        private System.Windows.Forms.Label iconLabel4;
+        private System.Windows.Forms.Label iconLabel3;
+        private System.Windows.Forms.Label iconLabel2;
     }
 }
 
