@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.iconLabel = new System.Windows.Forms.Label();
             this.iconLabel2 = new System.Windows.Forms.Label();
@@ -45,6 +46,7 @@
             this.iconLabel04 = new System.Windows.Forms.Label();
             this.iconLabel05 = new System.Windows.Forms.Label();
             this.iconLabel06 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -94,6 +96,7 @@
             this.iconLabel.TabIndex = 0;
             this.iconLabel.Text = "c";
             this.iconLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel2
             // 
@@ -106,6 +109,7 @@
             this.iconLabel2.TabIndex = 1;
             this.iconLabel2.Text = "c";
             this.iconLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel2.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel3
             // 
@@ -118,6 +122,7 @@
             this.iconLabel3.TabIndex = 2;
             this.iconLabel3.Text = "c";
             this.iconLabel3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel3.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel4
             // 
@@ -130,6 +135,7 @@
             this.iconLabel4.TabIndex = 3;
             this.iconLabel4.Text = "c";
             this.iconLabel4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel4.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel5
             // 
@@ -142,6 +148,7 @@
             this.iconLabel5.TabIndex = 4;
             this.iconLabel5.Text = "c";
             this.iconLabel5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel5.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel6
             // 
@@ -154,6 +161,7 @@
             this.iconLabel6.TabIndex = 5;
             this.iconLabel6.Text = "c";
             this.iconLabel6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel6.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel7
             // 
@@ -166,6 +174,7 @@
             this.iconLabel7.TabIndex = 6;
             this.iconLabel7.Text = "c";
             this.iconLabel7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel7.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel8
             // 
@@ -178,6 +187,7 @@
             this.iconLabel8.TabIndex = 7;
             this.iconLabel8.Text = "c";
             this.iconLabel8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel8.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel9
             // 
@@ -190,6 +200,7 @@
             this.iconLabel9.TabIndex = 8;
             this.iconLabel9.Text = "c";
             this.iconLabel9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel9.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel0
             // 
@@ -202,6 +213,7 @@
             this.iconLabel0.TabIndex = 9;
             this.iconLabel0.Text = "c";
             this.iconLabel0.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel0.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel01
             // 
@@ -214,6 +226,7 @@
             this.iconLabel01.TabIndex = 10;
             this.iconLabel01.Text = "c";
             this.iconLabel01.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel01.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel02
             // 
@@ -226,6 +239,7 @@
             this.iconLabel02.TabIndex = 11;
             this.iconLabel02.Text = "c";
             this.iconLabel02.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel02.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel03
             // 
@@ -238,6 +252,7 @@
             this.iconLabel03.TabIndex = 12;
             this.iconLabel03.Text = "c";
             this.iconLabel03.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel03.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel04
             // 
@@ -250,6 +265,7 @@
             this.iconLabel04.TabIndex = 13;
             this.iconLabel04.Text = "c";
             this.iconLabel04.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel04.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel05
             // 
@@ -262,6 +278,7 @@
             this.iconLabel05.TabIndex = 14;
             this.iconLabel05.Text = "c";
             this.iconLabel05.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel05.Click += new System.EventHandler(this.label_Click);
             // 
             // iconLabel06
             // 
@@ -274,6 +291,12 @@
             this.iconLabel06.TabIndex = 15;
             this.iconLabel06.Text = "c";
             this.iconLabel06.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.iconLabel06.Click += new System.EventHandler(this.label_Click);
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 750;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // Form1
             // 
@@ -308,6 +331,7 @@
         private System.Windows.Forms.Label iconLabel4;
         private System.Windows.Forms.Label iconLabel3;
         private System.Windows.Forms.Label iconLabel2;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 
